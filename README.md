@@ -1,1 +1,4 @@
 # swisstronik-testnet
+
+my address for testing: 0x0d9ED6b531A85566eb4ffd1094ecd7F658ebAf24
+getMessage TxHash: 0x47b41aad77489387ec777a5d1242407e4ffa48f198d946c745a68a8cf2fad8f3
